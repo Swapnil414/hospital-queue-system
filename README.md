@@ -94,6 +94,17 @@ cd frontend
 npm install
 npm start
 ```
+## Screenshots
+
+### Patient Portal
+
+![Patient Portal](<img width="702" height="828" alt="image" src="https://github.com/user-attachments/assets/ac49b55d-c9be-4db5-b5bd-28c5a5b36dfc" />
+)
+
+### Admin Dashboard
+
+![Admin Dashboard](<img width="915" height="648" alt="image" src="https://github.com/user-attachments/assets/84fdffeb-a92a-480a-94c1-d76a4229ef70" />
+)
 
 ## Future Improvements
 
