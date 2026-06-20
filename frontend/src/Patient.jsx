@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "http://localhost:8000";
+const API = process.env.REACT_APP_API_URL;
 
 const SLOTS = ["9-10","10-11","11-12","12-1","1-2","2-3","3-4","4-5","5-6","6-7"];
 
